@@ -199,6 +199,7 @@ Remember to set the `GEMINI_API_KEY` environment variable in your deployment pla
 
 This project was built using AI assistance. Here's the prompt used:
 
+```
 Create a plant identifier website in next js 14 using the app directory and no src folder. As soon as the website loads, the user should be given the option to upload an image of a plant. And the website should show the name and other improtant informations on the screen. As for identifying the plants, you can use the Google gemini API. Also make sure to style the website in a modern way using tailwind css
 
 Key Requirements:
@@ -218,11 +219,11 @@ AI-powered identification
 Display plant names, care instructions, and facts
 Mobile-responsive design
 Professional error handling
+```
 
 Feel free to use this as a template for similar projects!
 
 ## 🤝 Contributing
-...
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
